@@ -1,6 +1,4 @@
-# A-Global-Path-Planning
-## A* Path Finding with B-Spline Smoothing
-
+# A*-Path-Finding-with-B-Spline-Smoothing
 This project implements the A* path finding algorithm to navigate a 2D binary map containing obstacles. It further refines the generated path using a B-Spline smoothing algorithm to create a smoother, more natural trajectory.
 
 ## Overview
